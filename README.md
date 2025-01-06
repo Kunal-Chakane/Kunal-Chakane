@@ -7,6 +7,7 @@
 - 📫 How to reach me: 
   - GitHub: [@Kunal-Chakane](https://github.com/Kunal-Chakane)
   - Email: [kunalchakane07official@gmail.com](mailto:kunalchakane07official@gmail.com)
+  - Linkedin : [https://www.linkedin.com/in/kunal-chakane-b635a7171/](reach_me:https://www.linkedin.com/in/kunal-chakane-b635a7171/)
 
 ---
 
