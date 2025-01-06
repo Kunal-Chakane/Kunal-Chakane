@@ -4,6 +4,17 @@
 
 - 👀 I’m passionate about data-driven fields.
 - 🌱 Currently exploring opportunities in the data domain.
+- 👀 I’m Seeking job role Like :
+                              Data Analyst
+                              Business Analyst
+                              Data Scienist
+                              Machine Learning Engineer
+                              Big Data Engineer
+                              Database Administrator (DBA)
+                              Analytics Consultant
+                              Data Engineer
+                              Business Intelligence (BI) Developer
+  
 - 📫 How to reach me: 
   - GitHub: [@Kunal-Chakane](https://github.com/Kunal-Chakane)
   - Email: [kunalchakane07official@gmail.com](mailto:kunalchakane07official@gmail.com)
